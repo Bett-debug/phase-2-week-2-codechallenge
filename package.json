@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "mkdir -p build && npm run your_build_command",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
