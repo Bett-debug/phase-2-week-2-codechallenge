@@ -88,7 +88,7 @@ If you want to run the project locally, you'll need:
 
 ### Backend API
 
-- [json server] (http://localhost:3000/goals)
+- [render] (https://json-server-rqpr.onrender.com)
 
 ## Support and Contact Details
 
