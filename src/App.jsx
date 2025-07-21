@@ -4,7 +4,7 @@ import GoalForm from '../components/GoalForm';
 import DepositForm from '../components/DepositForm';
 import Overview from '../components/Overview';
 
-const API = 'http://localhost:3000/goals';
+const API = 'https://json-server-rqpr.onrender.com/goals';
 
 function App() {
   const [goals, setGoals] = useState([]);
