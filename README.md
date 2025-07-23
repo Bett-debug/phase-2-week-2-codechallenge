@@ -28,7 +28,7 @@ This is a minimalist management application built using React JS. The applicatio
 
 ### View Live Site
 
-Visit the deployed application at: [React Blog App](https://blog-app-sdf-ft11.netlify.app/)
+Visit the deployed application at: [React App](https://heroic-paprenjak-d3451d.netlify.app/)
 
 The live site allows you to:
 
